@@ -2,7 +2,7 @@
   "description": "Fixes new Vector theme of WikiMedia",
   "manifest_version": 2,
   "name": "WikiFixer",
-  "version": "0.3",
+  "version": "0.4",
   "homepage_url": "https://github.com/fcalvet/WikiFixer",
   "icons": {},
 
